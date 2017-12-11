@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Bookie</string>
+    <string name="search">SEARCH</string>
 </resources>
